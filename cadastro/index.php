@@ -32,7 +32,7 @@ $rs->execute();
     <link href="css/main.css" rel="stylesheet">
 
     <!-- Bootstrap -->
-    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap/bootstrap.css" rel="stylesheet">
 
     <!-- CSS Bootstrap -->
     <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet">
