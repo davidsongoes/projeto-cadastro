@@ -3,8 +3,8 @@
 
 function efetivo(){
 
-  $user = "usuario";//usuário do banco de dados
-  $pass = "senha";//senha do usuario do banco de dados
+  $user = "root";//usuário do banco de dados
+  $pass = "123456";//senha do usuario do banco de dados
   
 // Conexão com BD
   $conn = new PDO ("mysql:host=localhost;dbname=efetivo",$user,$pass);

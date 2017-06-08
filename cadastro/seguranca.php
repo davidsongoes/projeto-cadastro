@@ -28,7 +28,7 @@ $_SG['dsn'] = 'mysql:host=localhost;dbname=efetivo';
 //
 $_SG['servidor'] = 'localhost';    // Servidor MySQL
 $_SG['usuario'] = 'root';          // Usuário MySQL
-$_SG['senha'] = '123123';                // Senha MySQL
+$_SG['senha'] = '123456';                // Senha MySQL
 $_SG['banco'] = 'efetivo';            // Banco de dados MySQL
 $_SG['paginaLogin'] = 'login.php'; // Página de login
 $_SG['tabela'] = 'login_user';       // Nome da tabela onde os usuários são salvos

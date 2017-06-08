@@ -28,9 +28,9 @@
     <title>CADASTRO</title>
 
     <!-- Favicons-->
-    <link rel="icon" href="images/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" href="resource/images/favicon/favicon-32x32.png" sizes="32x32">
     <!-- Favicons-->
-    <link rel="apple-touch-icon-precomposed" href="images/favicon/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon-precomposed" href="resource/images/favicon/apple-touch-icon-152x152.png">
     <!-- For iPhone -->
     <meta name="msapplication-TileColor" content="#00bcd4">
     <meta name="msapplication-TileImage" content="images/favicon/mstile-144x144.png">
@@ -39,17 +39,17 @@
 
     <!-- CORE CSS-->
 
-    <link href="css/materialize/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link href="css/style.min.css" type="text/css" rel="stylesheet" media="screen,projection">
+    <link href="resource/css/materialize/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection">
+    <link href="resource/css/style.min.css" type="text/css" rel="stylesheet" media="screen,projection">
     <link rel="stylesheet" type="text/css" href="../Cadastro/css/sweetalert/sweetalert.css">
 
     <!-- Custome CSS-->
-    <link href="css/custom/custom.min.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link href="css/layouts/page-center.css" type="text/css" rel="stylesheet" media="screen,projection">
+    <link href="resource/css/custom/custom.min.css" type="text/css" rel="stylesheet" media="screen,projection">
+    <link href="resource/css/layouts/page-center.css" type="text/css" rel="stylesheet" media="screen,projection">
 
     <!-- INCLUDED PLUGIN CSS ON THIS PAGE -->
-    <link href="css/prism/prism.css" type="text/css" rel="stylesheet" media="screen,projection">
-    <link href="css/perfect-scrollbar/perfect-scrollbar.css" type="text/css" rel="stylesheet" media="screen,projection">
+    <link href="resource/css/prism/prism.css" type="text/css" rel="stylesheet" media="screen,projection">
+    <link href="resource/css/perfect-scrollbar/perfect-scrollbar.css" type="text/css" rel="stylesheet" media="screen,projection">
 
 </head>
 <!--Aqui você pode mudar a cor do background da página-->
@@ -82,7 +82,7 @@
             <form class="login-form">
                 <div class="row">
                     <div class="input-field col s12 center">
-                        <img src="images/unidade_logo.png" alt="" class="responsive-img valign profile-image-login">
+                        <img src="resource/images/unidade_logo.png" alt="" class="responsive-img valign profile-image-login">
                         <p class="center login-form-text">Controle<br>Relação do Efetivo<br>Portal</p>
                     </div>
                 </div>
@@ -143,19 +143,19 @@
 <!-- jQuery Library -->
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 <!--materialize js-->
-<script type="text/javascript" src="js/materialize/materialize.min.js"></script>
+<script type="text/javascript" src="resource/js/materialize/materialize.min.js"></script>
 <!--  sweetalert-->
-<script type="text/javascript" src="js/sweetalert/sweetalert.min.js"></script>
+<script type="text/javascript" src="resource/js/sweetalert/sweetalert.min.js"></script>
 
 <!--  prism-->
-<script type="text/javascript" src="js/prism/prism.js"></script>
+<script type="text/javascript" src="resource/js/prism/prism.js"></script>
 <!--scrollbar-->
-<script type="text/javascript" src="js/perfect-scrollbar/perfect-scrollbar.min.js"></script>
+<script type="text/javascript" src="resource/js/perfect-scrollbar/perfect-scrollbar.min.js"></script>
 
 <!--plugins.js - Some Specific JS codes for Plugin Settings-->
-<script type="text/javascript" src="js/plugins.min.js"></script>
+<script type="text/javascript" src="resource/js/plugins.min.js"></script>
 <!--custom-script.js - Add your own theme custom JS-->
-<script type="text/javascript" src="js/custom-script.js"></script>
+<script type="text/javascript" src="resource/js/custom-script.js"></script>
 
 <!--Alertas-->
 <script>

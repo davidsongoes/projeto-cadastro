@@ -29,13 +29,13 @@ $rs->execute();
     <title>LISTA DO EFETIVO</title>
 
     <!-- CSS -->
-    <link href="css/main.css" rel="stylesheet">
+    <link href="resource/css/main.css" rel="stylesheet">
 
     <!-- Bootstrap -->
-    <link href="css/bootstrap/bootstrap.css" rel="stylesheet">
+    <link href="resource/css/bootstrap/bootstrap.css" rel="stylesheet">
 
     <!-- CSS Bootstrap -->
-    <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet">
+    <link href="resource/css/bootstrap/bootstrap.min.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -47,7 +47,7 @@ $rs->execute();
 <body>
 <!--topo-->
 
-<?php include 'layout/topo.php'?>
+<?php include 'layout/topo.php' ?>
 
 <!--conteudo-->
 <div class="container" style="width: 90%">
@@ -96,8 +96,8 @@ $rs->execute();
     <?php endif; ?>
 </div>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="js/jquery/jquery-1.11.2.min.js"></script>
+<script src="resource/js/jquery/jquery-1.11.2.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="js/bootstrap.min.js"></script>
+<script src="resource/js/bootstrap.min.js"></script>
 </body>
 </html>
